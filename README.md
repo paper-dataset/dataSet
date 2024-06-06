@@ -1,6 +1,6 @@
 This dataset is used for anonymous review.
 
-The dataset comes from 2800 CAN signals collected on the CAN bus. After careful sorting, we divided them into normal signals and abnormal signals. Normal signals include 2400 signals from 8 benign devices on the CAN bus. The abnormal signals include 400, each from signals from intrusion devices in eight attack scenarios. 
+The dataset comes from 2800 CAN signals collected on the CAN bus. After careful sorting, we divided them into normal signals and abnormal signals. Normal signals include 2400 signals from eight benign devices on the CAN bus. The abnormal signals include 400 signals from intrusion devices in eight attack scenarios. 
 
 The dataset is in npy file format, so it is an array saved in Python using the NumPy library. An npy file is a binary file format used to store a single NumPy array. Here is a descriptive example of how to load npy file data:
 
